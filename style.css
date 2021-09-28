@@ -134,16 +134,16 @@ form a {
     font-size: 1.5rem;
   }
 
-  .button {
-    height: 3.5rem;
+  .form {
+    display: grid;
+    gap: 1.5rem;
   }
 
   form {
     width: 35rem;
   }
 
-  .form {
-    display: grid;
-    gap: 1.5rem;
+  .button {
+    height: 3.5rem;
   }
 }
